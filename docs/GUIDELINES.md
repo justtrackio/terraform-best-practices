@@ -163,7 +163,7 @@ The reason to pin to an explicit version rather than a range like `>= 1.2.0` is 
 
 ## Utilizing public modules
 
-Please use public modules everywhere possible. That helps the overall maintenance needed and time spend during development. We recommend using public modules from these organizations as they are pretty well maintained and follow terraform module best practices.
+Please use public modules wherever possible. That helps the overall maintenance needed and time spend during development. We recommend using public modules from these organizations as they are pretty well maintained and follow terraform module best practices.
 
 1. [terraform-aws-modules](https://github.com/terraform-aws-modules)
 2. [cloudposse](https://github.com/cloudposse)
