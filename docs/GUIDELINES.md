@@ -154,7 +154,7 @@ Modules should accept as many parameters as possible. Avoid using inputs of `typ
 
 There are many ways to express a module’s source. Our convention is to use Terraform registry syntax with an explicit version.
 
-```typescript
+```hcl
 source  = "justtrack/ecs-app/aws"
 version = "1.2.0"
 ```
